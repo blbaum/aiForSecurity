@@ -1,0 +1,10 @@
+item,value
+dataset_rows,11055
+dataset_columns,31
+target_column,Result
+num_features,30
+num_missing_values_total,0
+num_duplicate_rows,5206
+phishing_count,4898
+legitimate_count,6157
+num_columns_to_review,10
